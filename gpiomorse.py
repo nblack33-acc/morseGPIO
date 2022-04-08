@@ -59,7 +59,7 @@ letterDict = {
         "w" : ".__",
         "x" : "_.._",
         "y" : "_.__",
-        "z" : "__..",
+        "z" : "__.."
 }
 
 # The writeMessage function loops through each message character, then through the morse representation from the dict, and creates the appropriate output
