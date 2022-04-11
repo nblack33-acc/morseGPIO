@@ -79,4 +79,4 @@ def writeMessage():
 while True:
 	print("Message incoming")
 	writeMessage()
-	sleep(3)
+	sleep(10)
